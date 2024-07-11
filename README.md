@@ -13,7 +13,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Fascinado por tecnologi
  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=highcontrast&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGaldino-S&theme=highcontrast&show_icons=true)
 
 ## Contato 
 
